@@ -1,6 +1,6 @@
 <p align="center">
   <img src="" alt="belal alk's Header Image"/>
-  <img src="https://github.com/Belalalk/Belalalk/blob/main/github-header-image.png" alt ="Belal alk's Header Image"/>
+  <img src="https://github.com/Belalalk/Belalalk/blob/main/github-header-image.png" alt="Belal Alk's Header Image"/>
     </p>
 
 <h2 align="center">🛠 Technology Stack 🛠</h2>
