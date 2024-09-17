@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Belalalk/Belalalk/blob/main/github-header-image.png" alt="Belal Alk's Header Image"/>
+  <img src="https://github.com/Belalalk/Belalalk/blob/main/github-header-image2.png" alt="Belal Alk's Header Image"/>
     </p>
 <h2 align="center">🛠 Technology Stack 🛠</h2>
 <p align="center">
